@@ -10,3 +10,8 @@ Set up like:<br>
 ├── Coms<br>
 │   ├── Communication Functions<br>
 └── .gitignore
+
+To clone correctly:
+    * git clone (https://github.com/GoScoutOrg/GoScout.git || git@github.com:GoScoutOrg/GoScout.git )
+    * cd GoScout
+    * git submodule update --init
