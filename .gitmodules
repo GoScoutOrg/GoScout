@@ -1,0 +1,9 @@
+[submodule "UAV"]
+	path = UAV
+	url = git@github.com:GoScoutOrg/UAV.git
+[submodule "Rover"]
+	path = Rover
+	url = git@github.com:GoScoutOrg/Rover.git
+[submodule "Communications"]
+	path = Communications
+	url = git@github.com:GoScoutOrg/Communications.git
