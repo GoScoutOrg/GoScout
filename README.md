@@ -12,14 +12,14 @@ Set up like:<br>
 └── .gitignore
 
 To clone correctly:
-    * git clone (https://github.com/GoScoutOrg/GoScout.git || git@github.com:GoScoutOrg/GoScout.git )
-    * cd GoScout
-    * git submodule update --init
+- git clone ( https://github.com/GoScoutOrg/GoScout.git || git@github.com:GoScoutOrg/GoScout.git )
+- cd GoScout
+- git submodule update --init
 
 To initialize library dependencies:
-    * For each subfolder:
-        * cd subfolder
-        * $ python3 -m venv .venv
-        * $ source .venv/bin/activate
-        * $ pip install -r requirements.txt
-    **TO EXIT: $ deactivate**
+- For each subfolder:
+    - $ cd ${subfolder}
+    - $ python3 -m venv .venv
+    - $ source .venv/bin/activate
+    - $ pip install -r requirements.txt
+**TO EXIT: $ deactivate**
