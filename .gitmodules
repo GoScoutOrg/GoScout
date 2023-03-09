@@ -1,9 +1,12 @@
 [submodule "UAV"]
 	path = UAV
 	url = https://github.com/GoScoutOrg/UAV.git
+	branch = main
 [submodule "Rover"]
 	path = Rover
 	url = https://github.com/GoScoutOrg/Rover.git
+	branch = main
 [submodule "Communications"]
 	path = Communications
 	url = https://github.com/GoScoutOrg/Communications.git
+	branch = main
